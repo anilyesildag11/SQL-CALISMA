@@ -1,0 +1,6 @@
+--select DISTINCT replacement_cost from film
+--select COUNT(DISTINCT replacement_cost) from film
+--select * from film
+--select COUNT(title = 'T%' and rating = 'G')
+--select COUNT(country = '_____') from country
+--select COUNT(city = '%R' or city = '%r') from city
